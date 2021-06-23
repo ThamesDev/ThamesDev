@@ -1,5 +1,5 @@
 - Hi, I’m @ThamesDev
-- I’m interested in music, animals, obviously programming, Linux and many more!
+- I’m interested in music, animals, obviously programming, Linux and much more!
 - I’m currently learning C#, but I'm already quite proficient with Python. I love that they've finally added a switch case function, weird as the syntax may be!
 - I’m not looking to collaborate on anything at the moment, but hmu if you have something you think I'll find interesting. I will work for free: the catch is that I   will do so on my own terms, in my free time. This may take ages.
 - How to reach me: just use GitHub.
